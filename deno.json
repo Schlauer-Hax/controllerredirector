@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "express": "npm:express@^5.1.0",
+    "express-ws": "npm:express-ws@^5.0.2",
+    "vigemclient": "npm:vigemclient@^1.5.2"
+  },
+  "nodeModulesDir": "auto"
+}
